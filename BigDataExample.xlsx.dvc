@@ -1,0 +1,7 @@
+md5: 782383b74d5375aec433e67b0aa57dfb
+outs:
+- md5: 5e92965954e13a0cb2074f8862fc1910
+  path: BigDataExample.xlsx
+  cache: true
+  metric: false
+  persist: false
