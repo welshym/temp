@@ -1,0 +1,7 @@
+md5: b595450533748fd60ecc2158cb0705d6
+outs:
+- md5: 2dd26c4d4799ebd29fa31e48d49e8e53
+  path: testfile.bin
+  cache: true
+  metric: false
+  persist: false
